@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**BartoszBrodowski/BartoszBrodowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
+I'm currently studying React.js and React Native. 
 
-Here are some ideas to get you started:
+### What are my current interests?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most probably front-end/design stuff like creating web apps etc. Im really keen on JS and CSS,
+which also made me want to pick up React.
+
+### Tools and technologies:
+
+*Yet to be added*
