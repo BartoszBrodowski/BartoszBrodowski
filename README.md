@@ -14,11 +14,13 @@ which also made me want to pick up React.
 
 ## Tech Stack :hammer_and_wrench:
 
-<img src="./icons/VSCode.svg" alt="Visual Studio Code">
-<img src="./icons/Python.svg" alt="Python">
-<img src="./icons/HTML.svg" alt="HTML5">
-<img src="./icons/CSS.svg" alt="CSS">
-<img src="./icons/SASS.svg" alt="SASS">
-<img src="./icons/JavaScript.svg" alt="JavaScript">
-<img src="./icons/React.svg" alt="React">
-<img src="./icons/Bash.svg" alt="Bash">
+<div float="left">
+  <img src="./icons/VSCode.svg" alt="Visual Studio Code">
+  <img src="./icons/Python.svg" alt="Python">
+  <img src="./icons/HTML.svg" alt="HTML5">
+  <img src="./icons/CSS.svg" alt="CSS">
+  <img src="./icons/SASS.svg" alt="SASS">
+  <img src="./icons/JavaScript.svg" alt="JavaScript">
+  <img src="./icons/React.svg" alt="React">
+  <img src="./icons/Bash.svg" alt="Bash">
+</div>
