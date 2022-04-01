@@ -16,6 +16,7 @@ which also made me want to pick up React.
 
 <div float="left">
   <img src="./icons/VSCode.svg" alt="Visual Studio Code">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60px" height="50px" alt="PyCharm">
   <img src="./icons/Python.svg" alt="Python">
   <img src="./icons/HTML.svg" alt="HTML5">
   <img src="./icons/CSS.svg" alt="CSS">
@@ -23,5 +24,4 @@ which also made me want to pick up React.
   <img src="./icons/JavaScript.svg" alt="JavaScript">
   <img src="./icons/React.svg" alt="React">
   <img src="./icons/Bash.svg" alt="Bash">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60px" height="50px" alt="PyCharm">
 </div>
