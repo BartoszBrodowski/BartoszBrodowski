@@ -5,9 +5,9 @@ I'm currently studying React.js and React Native.
 
 <br />
 
-## What are my current interests? :yo_yo:
+## What are my latest interests? :yo_yo:
 
-Most probably front-end/design stuff like creating web apps etc. Im really keen on JS and CSS,
+Most probably front-end stuff like creating web apps etc. Im really keen on JS and CSS,
 which also made me want to pick up React.
 
 <br />
