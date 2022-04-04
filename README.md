@@ -25,3 +25,8 @@ which also made me want to pick up React.
   <img src="./icons/React.svg" alt="React">
   <img src="./icons/Bash.svg" alt="Bash">
 </div>
+
+
+### Gitlab
+I also have a gitlab account for university purposes
+https://gitlab.com/BartoszBrodowski
