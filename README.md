@@ -10,6 +10,9 @@ I'm currently studying React.js and React Native.
 Most probably front-end stuff like creating web apps etc. Im really keen on JS and CSS,
 which also made me want to pick up React.
 
+Currently working on a Chemistry App project created by academic circle "Kuźnia" at University of Gdańsk.
+The App is being created using React Native, React Navigation and React Native Reanimated 2.
+
 <br />
 
 ## Tech Stack :hammer_and_wrench:
