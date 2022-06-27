@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
-I'm currently studying React.js and React Native.
+I'm currently studying React.js.
 
 <br />
 
