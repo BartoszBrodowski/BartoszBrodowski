@@ -1,17 +1,17 @@
 # Hi there 👋
 
 My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
-I'm currently studying React.js.
+<br/>
+
+I'm currently studying React.js and getting to know TailwindCSS and Firebase.
 
 <br />
 
 ## What are my latest interests? :yo_yo:
 
-Most probably front-end stuff like creating web apps etc. Im really keen on JS and CSS,
-which also made me want to pick up React.
+Most probably front-end stuff like creating web apps etc. Im really keen on JS and CSS, which also made me want to pick up React.
 
-Currently working on a Chemistry App project created by academic circle "Kuźnia" at University of Gdańsk.
-The App is being created using React Native, React Navigation and React Native Reanimated 2.
+When it comes to stuff outside coding, lately it's been Formula 1 :racing_car:
 
 <br />
 
@@ -26,10 +26,12 @@ The App is being created using React Native, React Navigation and React Native R
   <img src="./icons/SASS.svg" alt="SASS">
   <img src="./icons/JavaScript.svg" alt="JavaScript">
   <img src="./icons/React.svg" alt="React">
+  <img src="./icons/TailwindCSS.svg" alt="TailwindCSS">
+  <img src="./icons/Scala.svg" alt="Scala">
   <img src="./icons/Bash.svg" alt="Bash">
 </div>
 
-
 ### Gitlab
+
 I also have a gitlab account for university purposes
 https://gitlab.com/BartoszBrodowski
