@@ -3,15 +3,16 @@
 My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
 <br/>
 
-I'm currently studying React.js and getting to know TailwindCSS and Firebase.
+I'm currently studying Neo4j, MongoDB and expanding my knowledge of React.
 
 <br />
 
 ## What are my latest interests? :yo_yo:
 
-Most probably front-end stuff like creating web apps etc. Im really keen on JS and CSS, which also made me want to pick up React.
+Front-end stuff like creating web apps. Im really keen on React and from now on only TailwindCSS, it's too good not to use it!!!
 
-When it comes to stuff outside coding, lately it's been Formula 1 :racing_car:
+
+When it comes to stuff outside coding, lately it's been Formula 1 :racing_car: and Guitar :guitar:
 
 <br />
 
