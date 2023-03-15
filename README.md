@@ -3,7 +3,7 @@
 My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
 <br/>
 
-I'm currently studying Neo4j, MongoDB and expanding my knowledge of React.
+I'm currently studying TypeScript, Go and AI related topics such as genetic algorithms.
 
 <br />
 
