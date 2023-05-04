@@ -11,7 +11,6 @@ I'm currently studying TypeScript, Go and AI related topics such as genetic algo
 
 Front-end stuff like creating web apps. Im really keen on React and from now on only TailwindCSS, it's too good not to use it!!!
 
-
 When it comes to stuff outside coding, lately it's been Formula 1 :racing_car: and Guitar :guitar:
 
 <br />
@@ -19,15 +18,17 @@ When it comes to stuff outside coding, lately it's been Formula 1 :racing_car: a
 ## Tech Stack :hammer_and_wrench:
 
 <div float="left">
-  <img src="./icons/VSCode.svg" alt="Visual Studio Code">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60px" height="50px" alt="PyCharm">
-  <img src="./icons/Python.svg" alt="Python">
+  <img src="./icons/JavaScript.svg" alt="JavaScript">
+  <img src="./icons/Typescript.svg" alt="Typescript">
+  <img src="./icons/Java.svg" alt="Java">
+  <img src="./icons/React.svg" alt="React">
+  <img src="./icons/Redux.svg" alt="Redux">
+  <img src="./icons/TailwindCSS.svg" alt="TailwindCSS">
   <img src="./icons/HTML.svg" alt="HTML5">
   <img src="./icons/CSS.svg" alt="CSS">
   <img src="./icons/SASS.svg" alt="SASS">
-  <img src="./icons/JavaScript.svg" alt="JavaScript">
-  <img src="./icons/React.svg" alt="React">
-  <img src="./icons/TailwindCSS.svg" alt="TailwindCSS">
+  <img src="./icons/Docker.svg" alt="Docker">
+  <img src="./icons/Python.svg" alt="Python">
   <img src="./icons/Scala.svg" alt="Scala">
   <img src="./icons/Bash.svg" alt="Bash">
 </div>
