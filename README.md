@@ -1,21 +1,27 @@
 # Hi there 👋
 
-My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland.
+My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland :mortar_board:
 <br/>
 
-I'm currently studying TypeScript, Go and AI related topics such as genetic algorithms.
+Currently learning :seedling:
 
-<br />
+- **TypeScript**
+- **NextJS**
+- **Docker + Kubernetes** :whale:
 
-## What are my latest interests? :yo_yo:
+I'm currently studying TypeScript, NextJS and Docker + Kubernetes
 
-Front-end stuff like creating web apps. Im really keen on React and from now on only TailwindCSS, it's too good not to use it!!!
+# What are my latest interests? :yo_yo:
 
-When it comes to stuff outside coding, lately it's been Formula 1 :racing_car: and Guitar :guitar:
+Currently I'm focused on learning to land my first programming job, preferably as Fullstack Developer :computer:
 
-<br />
+Sportswise my biggest interest is Formula 1 :racing_car:  
+I'm a Ferrari :racehorse: fan, but it's been quite painful lately...
 
-## Tech Stack :hammer_and_wrench:
+Besides one of my biggest hobbies is playing guitar. Currently I mainly play fingerstyle.  
+I play an electric guitar model Jet JS-300 :guitar:
+
+# Tech Stack :hammer_and_wrench:
 
 <div float="left">
   <img src="./icons/JavaScript.svg" alt="JavaScript">
@@ -33,7 +39,12 @@ When it comes to stuff outside coding, lately it's been Formula 1 :racing_car: a
   <img src="./icons/Bash.svg" alt="Bash">
 </div>
 
-### Gitlab
+# Contact
 
-I also have a gitlab account for university purposes
-https://gitlab.com/BartoszBrodowski
+:mailbox: Write me an email: bar.brodowski@gmail.com
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bartoszbrodowski/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
