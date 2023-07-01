@@ -3,17 +3,15 @@
 My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland :mortar_board:
 <br/>
 
-Currently learning :seedling:
+### Currently learning :seedling:
 
 - **TypeScript**
 - **NextJS**
 - **Docker + Kubernetes** :whale:
 
-I'm currently studying TypeScript, NextJS and Docker + Kubernetes
-
 # What are my latest interests? :yo_yo:
 
-Currently I'm focused on learning to land my first programming job, preferably as Fullstack Developer :computer:
+I'm focused on learning to land my first programming job, preferably as Fullstack Developer :computer:
 
 Sportswise my biggest interest is Formula 1 :racing_car:  
 I'm a Ferrari :racehorse: fan, but it's been quite painful lately...
