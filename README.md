@@ -9,16 +9,6 @@ My name is Bartosz Brodowski, I'm a Computer Science student at the University o
 - **NextJS**
 - **Docker + Kubernetes** :whale:
 
-# What are my latest interests? :yo_yo:
-
-I'm focused on learning to land my first programming job, preferably as Fullstack Developer :computer:
-
-Sportswise my biggest interest is Formula 1 :racing_car:  
-I'm a Ferrari :racehorse: fan, but it's been quite painful lately...
-
-Besides one of my biggest hobbies is playing guitar. Currently I mainly play fingerstyle.  
-I play an electric guitar model Jet JS-300 :guitar:
-
 # Tech Stack :hammer_and_wrench:
 
 <div float="left">
