@@ -6,7 +6,7 @@ My name is Bartosz Brodowski, I'm a Computer Science student at the University o
 ### Currently learning :seedling:
 
 - **NextJS**
-- **Angular + ScpringBoot**
+- **Unix Admin & Cloud Development**
 - **CI/CD with Jenkins and K8S** :whale:
 
 # Tech Stack :hammer_and_wrench:
