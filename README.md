@@ -1,13 +1,12 @@
 # Hi there 👋
 
-My name is Bartosz Brodowski, I'm a Computer Science student at the University of Gdańsk in Poland :mortar_board:
+My name is Bartosz Brodowski, I graduated Computer Science with a Bachelor's Degree at University of Gdańsk in Poland :mortar_board:
 <br/>
 
 ### Currently learning :seedling:
 
 - **NextJS**
-- **Unix Admin & Cloud Development**
-- **CI/CD with Jenkins and K8S** :whale:
+- **Kubernetes**
 
 # Tech Stack :hammer_and_wrench:
 
