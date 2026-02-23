@@ -1,6 +1,7 @@
 # Hi there 👋
 
 My name is Bartosz Brodowski, I graduated Computer Science with a Bachelor's Degree at University of Gdańsk in Poland :mortar_board:
+<br/>
 Currently working at Nordea Bank as an IT Analyst in Markets and Equity Trading area (Institutional and Retail trading)
 <br/>
 
