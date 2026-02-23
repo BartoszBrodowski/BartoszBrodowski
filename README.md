@@ -1,28 +1,28 @@
 # Hi there 👋
 
 My name is Bartosz Brodowski, I graduated Computer Science with a Bachelor's Degree at University of Gdańsk in Poland :mortar_board:
+Currently working at Nordea Bank as an IT Analyst in Markets and Equity Trading area (Institutional and Retail trading)
 <br/>
 
 ### Currently learning :seedling:
 
-- **NextJS**
-- **Kubernetes**
+- **Agentic AI**
 
 # Tech Stack :hammer_and_wrench:
 
 <div float="left">
-  <img src="./icons/JavaScript.svg" alt="JavaScript">
+  <!-- <img src="./icons/JavaScript.svg" alt="JavaScript"> -->
   <img src="./icons/Typescript.svg" alt="Typescript">
-  <img src="./icons/Java.svg" alt="Java">
-  <img src="./icons/React.svg" alt="React">
-  <img src="./icons/Redux.svg" alt="Redux">
+  <!-- <img src="./icons/Java.svg" alt="Java"> -->
+  <!-- <img src="./icons/React.svg" alt="React"> -->
+  <!-- <img src="./icons/Redux.svg" alt="Redux"> -->
   <img src="./icons/TailwindCSS.svg" alt="TailwindCSS">
-  <img src="./icons/HTML.svg" alt="HTML5">
-  <img src="./icons/CSS.svg" alt="CSS">
-  <img src="./icons/SASS.svg" alt="SASS">
+  <!-- <img src="./icons/HTML.svg" alt="HTML5"> -->
+  <!-- <img src="./icons/CSS.svg" alt="CSS"> -->
+  <!-- <img src="./icons/SASS.svg" alt="SASS"> -->
   <img src="./icons/Docker.svg" alt="Docker">
   <img src="./icons/Python.svg" alt="Python">
-  <img src="./icons/Scala.svg" alt="Scala">
+  <!-- <img src="./icons/Scala.svg" alt="Scala"> -->
   <img src="./icons/Bash.svg" alt="Bash">
 </div>
 
